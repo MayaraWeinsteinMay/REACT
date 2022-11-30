@@ -1,0 +1,11 @@
+.fonte{
+    color:tomato;
+    font-size: 50px;
+}
+
+.fundo1{
+    background-image: url(https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/87AD7A6AF5DC6E6D150BF0DDC016CB027F5663A28BE5208CEF575BC9F831A36D/scale?width=1440&aspectRatio=1.78&format=jpeg); 
+}
+.fundo{
+    background-color: cornflowerblue;
+}
