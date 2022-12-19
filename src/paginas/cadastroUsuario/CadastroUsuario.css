@@ -1,0 +1,20 @@
+.imagem2{
+    background-image: url(https://cinoto.com.br/cubomagico/wp-content/uploads/2020/02/3.png);
+    background-repeat: no-repeat;
+    width: 100vh; 
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.textos2{
+    font-weight: bold !important;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
+
+.cor1{
+    background-color: rgba(255, 221, 0, 0.746)
+}
