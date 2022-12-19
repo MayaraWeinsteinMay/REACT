@@ -1,0 +1,13 @@
+.cursor{
+    cursor: pointer;
+    color: black
+}
+
+.text-decorator-none{
+    text-decoration: none;
+    
+}
+
+.fundo{
+    color: yellow;
+}
